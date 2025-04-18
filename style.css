@@ -1,0 +1,48 @@
+body {
+background-color: #FFF5E4;
+}
+h2{
+    color: #443627;
+}
+h1{
+    color: #0D4715;
+}
+p {
+    color: #6A9C89;
+}
+nav {
+    color: #FFF5E4;
+    background-color:#FFA725 ;
+    padding: 10px;
+}
+ul{
+    color: #D98324;
+}
+.gender {
+    color: #D91656;
+}
+.par{
+    color:#640D5F ;
+}
+.name {
+    color: #FFB200;
+}
+.Fact {
+    color: #3D8D7A;
+}
+.sub{
+    color: #3674B5;
+}
+ol{
+    color: #EB5B00;
+}
+figcaption{
+    color: #D91656;
+}
+table{
+    color: #854836;
+    background-color: #FFA725;
+}
+img{
+    width: 500px;
+}
